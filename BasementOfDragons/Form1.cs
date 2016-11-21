@@ -46,7 +46,7 @@ namespace BasementOfDragons
         //SQL stuff to connect to server
         MySqlConnection myConn;
         DataTable dTable = new DataTable();
-		//The server this connects to has been retired and the account since no longer exists.
+	//The server this connects to has been retired and the account since no longer exists.
         string connStr = "server = bel.sunderland.ac.uk; " +
                                     "database =bg46ia; " +
                                     "uid =bg46ia; " +
